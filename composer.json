@@ -1,5 +1,5 @@
 {
-    "name": "Apok/Dispatcher",
+    "name": "apok/dispatcher",
     
     "require": {
         "php": ">=5.3.0"
